@@ -1,5 +1,17 @@
 # msg-android
 
+## 文档
+
+```
+docs/
+  /api
+    /文档.docx
+  /bugs
+    /文档.docx
+  /sdk
+    /README.md
+```
+
 ## todo
 
 ### 2024-6-11
